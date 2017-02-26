@@ -17,8 +17,7 @@ We consider the problem of distributing a large group of heterogeneous robots am
 
 # Swarmsim
 
-This code copies with permission the Swarmsim repository available as a standalone library [here](https://github.com/sgowal/swarmsim)
-and adds path-following ground robot controllers as well as trait visualization for our diversity study.
+This code copies (with permission) the Swarmsim repository available as a standalone library [here](https://github.com/sgowal/swarmsim) and adds path-following ground robot controllers as well as trait visualization for our diversity study.
 
 ## Install
 
