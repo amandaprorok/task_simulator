@@ -1,4 +1,4 @@
-# Diverity
+# Diversity
 
 ## The impact of diversity
 
